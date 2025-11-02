@@ -11,7 +11,7 @@ My work combines practical engineering depth with disciplined delivery using mod
 **Core technologies**
 - Node.js, TypeScript, NestJS, Express.js  
 - AWS (Lambda, DynamoDB, API Gateway, ECS, S3)  
-- React, Angular, Vue.js  
+- React, Angular, Vue.js, Svelte
 - Microservices, Event-Driven Systems, REST & GraphQL APIs  
 - CI/CD (GitHub Actions, GitLab CI), Docker, Infrastructure as Code (Pulumi, Serverless)  
 
